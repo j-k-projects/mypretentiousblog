@@ -1,5 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: A pretentious presentation of all things Pip.
+  maxWidthPX: "652"
+
 ---
