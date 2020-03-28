@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-28T05:00:00Z
-draft = true
 excerpt = "Pip (2020) and Drowning Girl (Lichtenstein, 1963) provide a stern reminder that style transfer neural networks are an old dog that always has new tricks. "
 hero = "/images/3F2CBCA8-78D5-4AE7-8781-29FFB54D638D.jpeg"
 timeToRead = 1
