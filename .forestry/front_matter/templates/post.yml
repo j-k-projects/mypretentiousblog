@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/pip-as-drowning-girl-a-style-transfer.md
