@@ -41,5 +41,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/a-new-test.md
 - content/post/hello-from-pip.md
 - content/post/pip-as-drowning-girl-a-style-transfer.md
