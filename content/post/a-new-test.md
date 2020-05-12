@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-05-12T20:00:00Z
-draft = true
 excerpt = "This is a new test. "
 hero = "/images/9B19CB16-FACC-432A-B8AD-CB8B0BCD4D9F.jpeg"
 timeToRead = 5
